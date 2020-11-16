@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:instargram_clon/Account.dart';
+import 'package:instargram_clon/account_page.dart';
 import 'package:instargram_clon/Search.dart';
 import 'Home.dart';
 
